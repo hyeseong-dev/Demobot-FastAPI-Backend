@@ -1,0 +1,8 @@
+fastapi==0.66.0
+greenlet==1.1.0
+gunicorn==20.1.0
+pydantic==1.8.2
+PyMySQL==1.0.2
+SQLAlchemy==1.4.21
+starlette==0.14.2
+typing-extensions==3.10.0.0
